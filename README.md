@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Jibreel! I'm currently a second year CS student at Georgia Tech, with concentrations in Intelligence and Human/Computer Interactions!
+👋 Hi, I'm Jibreel!
+🐝 I'm currently a second year CS student at Georgia Tech, with concentrations in Intelligence and Human/Computer Interactions
 
 
 ## 🌐 Socials:
@@ -14,8 +15,3 @@ Hi, I'm Jibreel! I'm currently a second year CS student at Georgia Tech, with co
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jym205&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
