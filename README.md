@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Hi, I'm Jibreel!
-🐝 I'm currently a second year CS student at Georgia Tech, with concentrations in Intelligence and Human/Computer Interactions
+![]👋 Hi, I'm Jibreel!
+![]🐝 I'm currently a second year CS student at Georgia Tech, with concentrations in Intelligence and Human/Computer Interactions
 
 
 ## 🌐 Socials:
